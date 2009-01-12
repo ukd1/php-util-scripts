@@ -1,4 +1,4 @@
-<?
+<?php
 /**
  * Kill slow running queries on a MySQL database from certain users / tables.
  *
